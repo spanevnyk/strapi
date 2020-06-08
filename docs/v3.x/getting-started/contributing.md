@@ -10,7 +10,7 @@ This repository contains the core of Strapi. It means the admin panel, core plug
 
 ### [strapi/buffet](https://github.com/strapi/buffet)
 
-[Buffet](https://buffetjs.io) is the componenent library that is used in the admin panel. This brings consistency throughout the different admin plugins.
+[Buffet](https://buffetjs.io) is the component library that is used in the admin panel. This brings consistency throughout the different admin plugins.
 
 ### [strapi/strapi-docker](https://github.com/strapi/strapi-docker)
 
